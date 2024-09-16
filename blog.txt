@@ -14,3 +14,12 @@ Email address: developer.vish@gmail.com
 Password:
 Password (again):
 Superuser created successfully.
+
+7.python manage.py startapp blogs- creating an apps
+
+8.python manage.py makemigrations- creating a model category..
+
+9. python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, blogs, contenttypes, sessions
+Running migrations:

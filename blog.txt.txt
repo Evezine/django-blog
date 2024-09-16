@@ -1,0 +1,16 @@
+1.python -m venv env : creating environment for prj
+
+2. source env/Scripts/activate: activating the environment.
+
+3.pip install Django- installing the django recent version
+
+4. django-admin startproject blog_main .  -starting the main project
+
+5. python manage.py migrate - creating a tables
+
+6.python manage.py createsuperuser
+Username (leave blank to use 'viswa'): djangoadmin
+Email address: developer.vish@gmail.com
+Password:
+Password (again):
+Superuser created successfully.
